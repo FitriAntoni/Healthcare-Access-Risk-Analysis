@@ -18,7 +18,7 @@ This project analyzes healthcare access and community health indicators from **C
 ## Interactive Dashboard
 
 **Excel Dashboard:**  
-- <a href="https://github.com/FitriAntoni/Healthcare-Access-Risk-Analysis/blob/main/Care%20Bridge%20Dashboard.png"Health Access Risk Dashboard</a>
+- <a href="https://github.com/FitriAntoni/Healthcare-Access-Risk-Analysis/blob/main/Care%20Bridge%20Dashboard.png">Health Access Risk Dashboard</a>
 
 **Dashboard Preview**
 
@@ -53,7 +53,7 @@ This project analyzes healthcare access and community health indicators from **C
 ---
 
 ## Dataset
-- <a href="https://github.com/FitriAntoni/Healthcare-Access-Risk-Analysis/blob/main/CareBridge%20Data.xlsx"Care Bridge Health Data</a>
+- <a href="https://github.com/FitriAntoni/Healthcare-Access-Risk-Analysis/blob/main/CareBridge%20Data.xlsx">Care Bridge Health Data</a>
 
 **Source:** Care Bridge Health Network
 
@@ -138,4 +138,4 @@ Healthcare-Access-Risk-Analysis
 
 **Fitri Antoni**
 
-MBA | Healthcare Researcher | Data Analytics Enthusiast
+MBA | Dentist | Healthcare Researcher | Data Analyst
