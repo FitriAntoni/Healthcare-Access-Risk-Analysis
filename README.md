@@ -138,4 +138,4 @@ Healthcare-Access-Risk-Analysis
 
 **Fitri Antoni**
 
-MBA | Dentist | Healthcare Researcher | Data Analyst
+MBA | Dentist | Healthcare Researcher | Business Analyst
